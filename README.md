@@ -1,4 +1,4 @@
-# Minimal HTTP Server for Deno
+# MiniServer: Minimal HTTP Server for Deno
 
 ## Install
 Import the module from `https://raw.githubusercontent.com/pandres95/deno-http-server/master/server.js`.
